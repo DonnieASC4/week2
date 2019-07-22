@@ -1,0 +1,40 @@
+body {
+  font: 18px Arial, sans-serif;
+  background-color: darkblue;
+  color: lightgrey;
+  text-align: center;
+}
+
+header {
+  border: solid 2px lightgreen;
+  font-size: 3em;
+}
+
+.event{
+  display:flex;
+  jus
+}
+.event-card {
+  color: lightpink;
+  border: solid 3px lightgoldenrodyellow;
+  padding: 5px 2px 5px 2px;
+  margin: 2px;
+}
+
+.title-card {
+  font: bold 2em;
+  padding: 4px;
+  margin: 3px;
+  border: solid 1px lightgoldenrodyellow;
+}
+
+.body-card {
+  font: 1.3em;
+  padding: 15px 0px;
+}
+
+.separation {
+  width: 2px;
+  height: 80px;
+  border: solid 10px lightgoldenrodyellow;
+}
