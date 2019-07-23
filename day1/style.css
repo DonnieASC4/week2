@@ -1,0 +1,20 @@
+body {
+  color: lightpink;
+  background-color: rgb(57, 7, 104);
+}
+
+h1 {
+  margin: 15px;
+  border: solid 4px;
+  border-color: darkgreen;
+  padding: 20px;
+}
+
+.other-text {
+  display: inline-block;
+}
+
+.other-text > p {
+  width: 20%;
+  height: 10%;
+}
