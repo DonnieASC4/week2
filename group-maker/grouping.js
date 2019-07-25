@@ -35,7 +35,7 @@ const cohort = [
   "Nicolas H-B",
   "Akinola",
   "Omar",
-  // "Mohamed",
+  "Mohamed",
   "Oscar",
   "Leonardo"
 ];
